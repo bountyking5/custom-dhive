@@ -28,7 +28,7 @@
     "blockchain",
     "client",
     "rpc",
-    "steem",
+    "hive",
     "dhive"
   ],
   "dependencies": {
